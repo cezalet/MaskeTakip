@@ -5,6 +5,10 @@ VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaskeTakip", "MaskeTakip\MaskeTakip.csproj", "{EFB61E04-C1EB-4AC0-8548-B964B34CF2D7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emtities", "Emtities\Emtities.csproj", "{727E8B8F-DE98-4165-9848-E5C2941D12B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{6CDD32EC-E4EA-4E3F-8657-D305B092B294}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{EFB61E04-C1EB-4AC0-8548-B964B34CF2D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFB61E04-C1EB-4AC0-8548-B964B34CF2D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFB61E04-C1EB-4AC0-8548-B964B34CF2D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{727E8B8F-DE98-4165-9848-E5C2941D12B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{727E8B8F-DE98-4165-9848-E5C2941D12B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{727E8B8F-DE98-4165-9848-E5C2941D12B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{727E8B8F-DE98-4165-9848-E5C2941D12B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CDD32EC-E4EA-4E3F-8657-D305B092B294}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CDD32EC-E4EA-4E3F-8657-D305B092B294}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CDD32EC-E4EA-4E3F-8657-D305B092B294}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CDD32EC-E4EA-4E3F-8657-D305B092B294}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
